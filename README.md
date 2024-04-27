@@ -32,4 +32,4 @@ https://docs.google.com/spreadsheets/d/1UKHegh6JIskqEpJrY3NQuzNrI3oLx6cp_i-CCnhx
 - IDE：Cloud9
 ​
 ## 使用素材
- 検討中
+ 検討中# Baby-Cook-rev.
