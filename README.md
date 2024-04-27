@@ -13,11 +13,13 @@
 ### ターゲットユーザ
 
  ・料理がワンパターン化してきている主婦(夫)
+
  ・初めて離乳食を作る主婦(夫)以外の方
 ​
 ### 主な利用シーン
 
  ・作りたいレシピを検索したいとき
+
  ・作った料理を投稿するとき
 ​
 ## 設計書
@@ -32,4 +34,4 @@ https://docs.google.com/spreadsheets/d/1UKHegh6JIskqEpJrY3NQuzNrI3oLx6cp_i-CCnhx
 - IDE：Cloud9
 ​
 ## 使用素材
- 検討中# Baby-Cook-rev.
+ 検討中
